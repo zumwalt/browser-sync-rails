@@ -15,7 +15,7 @@ module BrowserSyncRails
     end
 
     def port
-      @options[:port] || '3000'
+      @options[:port] || '9000'
     end
 
     def files
